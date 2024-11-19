@@ -16,11 +16,7 @@ I am primarily interested in theoretical aspects of Reinforcement Learning with 
 
 Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-
+1. [Gaur,M. Singh Bedi, A V. Agarwal, M. Pasupathy, R On the Global Convergence of RLHF Based Alignment With Neural Parametrization] (https://arxiv.org/pdf/2410.15610) Working Paper, To be submitted to ICML 2025.
+2. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. Closing the Gap: Achieving Global Convergence (Last Iterate) of Actor-Critic under Markovian Sampling with Neural Network Parametrization](https://proceedings.mlr.press/v235/gaur24a.html) International Conference on Machine Learning, 2024. <b>Spotlight</b>    
+3. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. On the Global Convergence of Natural Actor-Critic with Two-layer Neural Network Parametrization]((https://proceedings.mlr.press/v235/gaur24a.html)) 
+4. [Gaur, M. Aggarwal, V. Agarwal, M. On the global convergence of fitted Q-iteration with two-layer neural network parametrization](https://arxiv.org/abs/2306.10486), International Conference on Machine Learning, 2023.
