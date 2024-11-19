@@ -23,7 +23,7 @@ Publications
 
 Teaching Experience
 ======
-<h2> Statistics Department, Purdue University
-<h2> Teaching Assistant,(07/2019 - Present)
+<h2> Statistics Department,Purdue </h2> 
+<h2> Teaching Assistant,(07/2019 - Present) </h2>
 ∗ Was a teaching assistant the following courses, STAT 113, STAT 301, STAT 511, STAT 527, IE 512
 ∗ Prepared course materials for STAT 301, 116 and held office hours for students for STAT 113, STAT 301, STAT 511
