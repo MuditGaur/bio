@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Mudit Gaur"
+  pronouns         : # example: "he/him"  
+  bio              : "PhD student in Statistics at Purdue University"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
