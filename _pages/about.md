@@ -20,3 +20,10 @@ Publications
 2. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. Closing the Gap: Achieving Global Convergence (Last Iterate) of Actor-Critic under Markovian Sampling with Neural Network Parametrization](https://proceedings.mlr.press/v235/gaur24a.html) International Conference on Machine Learning, 2024. <b>Spotlight</b>    
 3. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. On the Global Convergence of Natural Actor-Critic with Two-layer Neural Network Parametrization](https://proceedings.mlr.press/v235/gaur24a.html) 
 4. [Gaur, M. Aggarwal, V. Agarwal, M. On the global convergence of fitted Q-iteration with two-layer neural network parametrization](https://arxiv.org/abs/2306.10486), International Conference on Machine Learning, 2023.
+
+Teaching Experience
+======
+<h2> Statistics Department, Purdue University
+<h2> Teaching Assistant,(07/2019 - Present)
+∗ Was a teaching assistant the following courses, STAT 113, STAT 301, STAT 511, STAT 527, IE 512
+∗ Prepared course materials for STAT 301, 116 and held office hours for students for STAT 113, STAT 301, STAT 511
