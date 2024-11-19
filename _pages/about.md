@@ -15,6 +15,12 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
+
+
+Research Interest
+======
+I am primarily interested in theoretical aspects of Reinforcement Learning with a particular focus on reinforcement learning algorithms that leverage the use of neural networks. My work involves analyzing RL algorithms and proving convergences for the same. This enables us to bridge the gap between theory and practice for RL algorithms and may lead to new insights. I have also started working on Reinforcement Learning From Human Feedback(RLHF). I am interested in designing new algorithms for an RLHF setup with a particular focus on the alignment problem for Large Language Models(LLM's). I am also interested in proving the convergence for these algorithms
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
