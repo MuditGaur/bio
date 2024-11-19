@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in statistics at Purdue University. I am being advised by [Professor Vaneet Aggarwal](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=119657) and [Professor Raghu Pasupathy](https://www.stat.purdue.edu/people/faculty/pasupath.html). I did my bachelors in Applied Physics from the Indian Institute of Technology, Dhanbad in 2014. I did my masters in Statistics from Rutgers University in 2017. I worked as a Business Analyst in EXL services in Gurgaon, India from 2014-2016 and as a statistician at Encore Capital Group form 2018 to 2019 in San Diego, USA.
+I am a PhD student in statistics at Purdue University. I am being advised by [Professor Vaneet Aggarwal](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=119657) and [Professor Raghu Pasupathy](https://www.stat.purdue.edu/people/faculty/pasupath.html). I did my bachelors in Applied Physics from the Indian Institute of Technology, Dhanbad in 2014. I did my masters in Statistics from Rutgers University in 2017. I worked as a Business Analyst in EXL services in Gurgaon, India from 2014-2016 and as a statistician at Encore Capital Group form 2018 to 2019 in San Diego, CA.
 
 
 Research Interest
@@ -38,4 +38,13 @@ Teaching Experience
 <li> Recognized for contributions by client who invited to become author in a project.</li>
 <li> Operated a specialized software help desk, offering expert coding assistance in Python, R, SAS, and SPSS to a diverse academic audience. </li>
 </ul>
+
+Professional Experience
+======
+<h3> Encore Capital Group, San Diego, CA </h3> 
+<h4> Statistician, (02/2018 - 07/2019) </h4> 
+<li> Worked on the Identification of payer groups that were most likely to stop payments in the legal channel </li>
+<li> Worked on the construction,maintenance and deployment of statistical models to optimize collections and reduce churn. In particular models which were critical in choosing customers to be selected for collections.</li>  
+<li> Utilized machine learning techniques for the development of said models.</li>
+<li> Did Spatio-Temporal analysis of collections to determine geographical distribution of yearly collections.</li>
 
