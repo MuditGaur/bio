@@ -16,7 +16,7 @@ I am primarily interested in theoretical aspects of Reinforcement Learning with 
 
 Publications
 ======
-1. [Gaur,M. Singh Bedi, A V. Agarwal, M. Pasupathy, R On the Global Convergence of RLHF Based Alignment With Neural Parametrization] (https://arxiv.org/pdf/2410.15610) Working Paper, To be submitted to ICML 2025.
+1. [Gaur,M. Singh Bedi, A V. Agarwal, M. Pasupathy, R On the Global Convergence of RLHF Based Alignment With Neural Parametrization](https://arxiv.org/pdf/2410.15610) Working Paper, To be submitted to ICML 2025.
 2. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. Closing the Gap: Achieving Global Convergence (Last Iterate) of Actor-Critic under Markovian Sampling with Neural Network Parametrization](https://proceedings.mlr.press/v235/gaur24a.html) International Conference on Machine Learning, 2024. <b>Spotlight</b>    
-3. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. On the Global Convergence of Natural Actor-Critic with Two-layer Neural Network Parametrization]((https://proceedings.mlr.press/v235/gaur24a.html)) 
+3. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. On the Global Convergence of Natural Actor-Critic with Two-layer Neural Network Parametrization](https://proceedings.mlr.press/v235/gaur24a.html) 
 4. [Gaur, M. Aggarwal, V. Agarwal, M. On the global convergence of fitted Q-iteration with two-layer neural network parametrization](https://arxiv.org/abs/2306.10486), International Conference on Machine Learning, 2023.
