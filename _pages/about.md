@@ -23,7 +23,17 @@ Publications
 
 Teaching Experience
 ======
-<h2> Statistics Department,Purdue </h2> 
-<h2> Teaching Assistant,(07/2019 - Present) </h2>
-∗ Was a teaching assistant the following courses, STAT 113, STAT 301, STAT 511, STAT 527, IE 512
-∗ Prepared course materials for STAT 301, 116 and held office hours for students for STAT 113, STAT 301, STAT 511
+<h3> Statistics Department, Purdue </h3> 
+<h4> Teaching Assistant,(07/2019 - Present) </h4> 
+<ul>
+<li> Was a teaching assistant the following courses, STAT 113, STAT 301, STAT 511, STAT 527, IE 512 </li>
+<li> Prepared course materials for STAT 301, 116 and held office hours for students for STAT 113, STAT 301, STAT 511 </li>
+</ul>
+
+<h3> Statistical Consulting Service, Purdue </h3> 
+<h4> Statistical Consultant ,(08/2020 - 08/2022, 01/2023 - 12/2023) </h4> 
+<ul>
+<li> Was a teaching assistant the following courses, STAT 113, STAT 301, STAT 511, STAT 527, IE 512 </li>
+<li> Prepared course materials for STAT 301, 116 and held office hours for students for STAT 113, STAT 301, STAT 511 </li>
+</ul>
+
