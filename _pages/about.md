@@ -33,7 +33,9 @@ Teaching Experience
 <h3> Statistical Consulting Service, Purdue </h3> 
 <h4> Statistical Consultant ,(08/2020 - 08/2022, 01/2023 - 12/2023) </h4> 
 <ul>
-<li> Was a teaching assistant the following courses, STAT 113, STAT 301, STAT 511, STAT 527, IE 512 </li>
-<li> Prepared course materials for STAT 301, 116 and held office hours for students for STAT 113, STAT 301, STAT 511 </li>
+<li>Provided statistical consulting for more than 30 clients in total and for 7 clients simultaneously in fall 2023.</li>
+<li> Was involved in formulating research questions, providing advice on which statistical analyses will be appropriate and providing software support for relevant analyses. Implemented models such as Quantile regression model, clustering and time series models.</li>
+<li> Recognized for contributions by client who invited to become author in a project.</li>
+<li> Operated a specialized software help desk, offering expert coding assistance in Python, R, SAS, and SPSS to a diverse academic audience. </li>
 </ul>
 
