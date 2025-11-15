@@ -25,7 +25,7 @@ Publications
 3. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. On the Global Convergence of Natural Actor-Critic with Two-layer Neural Network Parametrization](https://arxiv.org/pdf/2306.10486) 
 4. [Gaur, M. Aggarwal, V. Agarwal, M. On the global convergence of fitted Q-iteration with two-layer neural network parametrization](https://proceedings.mlr.press/v202/gaur23a/gaur23a.pdf), ICML, 2023.
 5. [Gaur ,M. Trivedi,P. Kunapuli,S.  Bedi,A V. Aggarwal, V. Sample Complexity of Diffusion Model Training Without Empirical Risk Minimizer Access](https://arxiv.org/pdf/2505.18344?), arxiv.
-6. [Gaur ,M., Srikanth.A,Aggarwal, V. Discrete State Diffusion Models: A Sample Complecity Perspective](https://arxiv.org/pdf/2510.10854?), arxiv. <b> 
+6. [Gaur ,M., Srikanth.A,Aggarwal, V. Discrete State Diffusion Models: A Sample Complecity Perspective](https://arxiv.org/pdf/2510.10854?), arxiv.  
 
 Teaching Experience
 ======
