@@ -22,8 +22,8 @@ Publications
 ======
 1. [Gaur,M. Singh Bedi, A V. Agarwal, M. Pasupathy, R On The Sample Complexity Bounds In Bilevel Reinforcement Learning](https://arxiv.org/pdf/2503.17644?) NeurIPS 2025.
 2. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. Closing the Gap: Achieving Global Convergence (Last Iterate) of Actor-Critic under Markovian Sampling with Neural Network Parametrization](https://proceedings.mlr.press/v235/gaur24a.html) ICML, 2024. <b>Spotlight</b>    
-3. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. On the Global Convergence of Natural Actor-Critic with Two-layer Neural Network Parametrization](https://proceedings.mlr.press/v235/gaur24a.html) 
-4. [Gaur, M. Aggarwal, V. Agarwal, M. On the global convergence of fitted Q-iteration with two-layer neural network parametrization](https://arxiv.org/abs/2306.10486), ICML, 2023.
+3. [Gaur, M. Singh Bedi, A. Aggarwal, V. Wang, D. On the Global Convergence of Natural Actor-Critic with Two-layer Neural Network Parametrization](https://arxiv.org/pdf/2306.10486) 
+4. [Gaur, M. Aggarwal, V. Agarwal, M. On the global convergence of fitted Q-iteration with two-layer neural network parametrization](https://proceedings.mlr.press/v202/gaur23a/gaur23a.pdf), ICML, 2023.
 5. [Gaur ,M. Trivedi,P. Kunapuli,S.  Bedi,A V. Aggarwal, V. Sample Complexity of Diffusion Model Training Without Empirical Risk Minimizer Access](https://arxiv.org/pdf/2505.18344?), arxiv.
 6. [Gaur ,M.*, Srikanth.A*,Aggarwal, V. Discrete State Diffusion Models: A Sample Complecity Perspective](https://arxiv.org/pdf/2510.10854?), arxiv. <b>* Denotes equal contribution</b> 
 
