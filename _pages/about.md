@@ -14,7 +14,7 @@ Research Interest
 ======
    1. <b>Deep Reinforcement Learning</b> - I am primarily interested in the analysis and application of reinforcement learning (RL), with a particular focus on algorithms that leverage neural networks and operate over large action spaces. My work analyzes these algorithms and proposes improvements to reduce their sample complexity.
 
-   2. <b>Bi-level formulation of Reinforcement Learning from Human Feedback</b> - I aim to develop novel, provably converegent bi-level algorithms for application to Reinforcement Learning from Human Feedback(RLHF) setups.
+   2. <b>Bi-level formulation of Reinforcement Learning from Human Feedback</b> - I aim to develop novel, provably converegent bi-level algorithms for application to reinforcement learning from human feedback(RLHF) setups.
     
    3. <b>Diffusion Models </b> - I am interested in the theoretical analyses of diffusion models and their potential applications to RL algorithms.
 
