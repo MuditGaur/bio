@@ -1,0 +1,12 @@
+# Main website navigation (Academic Pages / Jekyll)
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
