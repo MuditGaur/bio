@@ -6,15 +6,13 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Mudit Gaur's Home Page"
-title_separator          : "-"
-name                     : &name "Mudit Gaur"
-description              : &description "personal description"
-url                      : "https://MuditGaur.github.io/bio/"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               :
+Basic Site Settings:
+    title       : "Mudit Gaur"
+    description : "Postdoctoral Scholar, The Ohio State University | Statistics, Reinforcement Learning, and Generative Models"
+    url         : "https://muditgaur.github.io"
+    baseurl     : "/bio"
+    repository  : "MuditGaur/bio"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +22,9 @@ author:
   name             : "Mudit Gaur"
   avatar           : "img_resized.jpg"
   pronouns         : "he/him"  
-  bio              : "PhD student in Statistics at Purdue University"
-  location         : "West Lafayette, Indiana"
-  employer         : "Purdue University"
+  bio       : "Postdoctoral Scholar, AI-EDGE Institute, The Ohio State University"
+  location  : "Columbus, Ohio"
+  employer  : "The Ohio State University"
   uri              : # URL
   email            : "mgaur@purdue.edu" 
   github           : "MuditGaur"
